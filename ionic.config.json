@@ -1,0 +1,7 @@
+{
+  "name": "Hunt",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
